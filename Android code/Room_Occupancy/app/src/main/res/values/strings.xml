@@ -1,0 +1,274 @@
+<resources>
+    <string name="app_name">Spare Room</string>
+
+    <string name="home">Home</string>
+
+    <string name="find_a_room">Find a room</string>
+
+    <string name="contact_us">Contact Us</string>
+
+    <string name="admin">Admin</string>
+
+    <string name="adminlog">Admin Login</string>
+
+    <string name="login">Login</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="user_name">Admin Name:</string>
+
+    <string name="password">Password:</string>
+
+    <string name="enter_the_password">Enter the password</string>
+
+    <string name="enter_your_user_email">Enter the Admin Email</string>
+
+    <string name="admin_info">Admin Info</string>
+
+    <string name="admins">Admins</string>
+
+    <string name="alert_messages">Alert messages</string>
+
+    <string name="announcement">Announcement</string>
+
+    <string name="no_announcement">No Announcement yet</string>
+
+    <string name="room_info">Room Info</string>
+
+    <string name="rooms">Rooms</string>
+
+    <string name="admin_services">Admin Services</string>
+
+    <string name="send_us_a_message">Send Us a Message:</string>
+
+    <string name="enter_your_email">Enter Your Email</string>
+
+    <string name="message_title">Message Title</string>
+
+    <string name="enter_your_message">Enter Your Message</string>
+
+    <string name="send">Send</string>
+
+    <string name="Type">Type</string>
+
+    <string name="or_contact_us_via">Or Contact Us Via:</string>
+
+    <string name="example_gmail_com">spareroom2020@gmail.com</string>
+
+    <string name="_996_567789322">996-567789322</string>
+
+    <string name="app_info">App Info</string>
+
+    <string name="thank_you">Thank you ! Your Message is successfully sent</string>
+
+    <string name="ok">OK</string>
+
+    <string name="info_description">this app is developed to help you in finding an empty room whenever you need it, in a fast and easy way it can be used for evacuating purpose. in case if you face any problem you can contact us or report the problem to the admins.</string>
+
+    <string name="choose_a_corirdor">choose a corirdor:</string>
+
+    <string name="choose_a_floor">choose a floor:</string>
+
+    <string name="choose_a_room">choose a room:</string>
+
+    <string name="search">Search</string>
+    <string name="room">Room:</string>
+    <string name="status">Status:</string>
+    <string name="current_lecture">Current Lecture:</string>
+    <string name="chairs">Chairs:</string>
+    <string name="room_size">Room Size:</string>
+    <string name="facilities">Facilities:</string>
+    <string name="hash">#</string>
+    <string name="view_lectures">View Lectures</string>
+    <string name="report_a_problem">Report a Problem</string>
+    <string name="view_heatmap">View Heatmap</string>
+    <string name="room_s_lectures_table">Room\'s Lectures Table</string>
+    <string name="problem_in">Problem in:</string>
+    <string name="what_is_the_problem">What is the problem?</string>
+    <string name="room_number">Room Number</string>
+    <string name="todo">TODO</string>
+    <string name="back">Back</string>
+    <string name="add_new_room">Add New Room</string>
+    <string name="delete_a_room">Delete a Room</string>
+    <string name="edit_a_room">Edit a Room</string>
+    <string name="admin_s_room_services">Admin\'s Room Services</string>
+    <string name="delete">Delete</string>
+    <string name="room_number2">Room Number:</string>
+    <string name="floor">Floor:</string>
+    <string name="enter_room_number">Enter Room Number</string>
+    <string name="lectures">Lectures:</string>
+    <string name="number_of_chairs">Number Of Chairs</string>
+    <string name="add_lectures_table">Add Lectures Table</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="sensor_id">Sensor ID:</string>
+    <string name="enter_sensor_id">Enter Sensor ID</string>
+    <string name="add_new_admin">Add New Admin</string>
+    <string name="edit_admin_info">Edit Admin Info</string>
+    <string name="delete_admin">Delete Admin</string>
+    <string name="enter_new_admin_email">Enter New Admin Email</string>
+    <string name="new_password">New password</string>
+    <string name="email">email</string>
+    <string name="enter_the_admin_s_password">Enter the Password to Confirm</string>
+    <string name="edit_admin_account">Edit Admin Account :</string>
+    <string name="no_messages">No messages yet !</string>
+    <string name="lectures_table">Lectures Table</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="day_time">Day/Time</string>
+    <string name="_7_30_am">7:30 am</string>
+    <string name="_9_00_am">9:00 am</string>
+    <string name="_10_30_am">10:30 am</string>
+    <string name="_1_00_pm">1:00 pm</string>
+    <string name="monday">Monday</string>
+    <string name="thursday">Thursday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="sunday">Sunday</string>
+    <string name="put_a_check_mark">Put a check mark against the slots that match the lectures time.</string>
+    <string name="announcements">Announcements</string>
+    <string name="announcement_about">Announcement about:</string>
+    <string name="write_the_announcement_here">Write the Announcement here ...</string>
+    <string name="announcement_title">Announcement Title</string>
+    <string name="publish_announcement">Publish Announcement</string>
+    <string name="admin_announcements">Admin Announcements</string>
+    <string name="enter_admin_email">Enter admin email</string>
+    <string name="enter_admin_password">Enter admin password</string>
+    <string name="choose_a_room_to_be_deleted">Choose a room to be deleted :</string>
+    <string name="enter_your_email_and_password_to_delete_your_account">Enter your email and password to delete your account:</string>
+    <string name="edit_your_account_information">Edit your account information :</string>
+    <string name="estimated_number_of_people">Estimated number of people:</string>
+    <string name="spare_room">Spare Room</string>
+    <string-array name="RoomSizeItems">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+    <string-array name="RoomSizeItemsEdit">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+    <string-array name="FloorItems">
+        <item>Ground Floor</item>
+        <item>First Floor</item>
+        <item>Second Floor</item>
+    </string-array>
+    <string-array name="FloorItemsEdit">
+        <item>Ground Floor</item>
+        <item>First Floor</item>
+        <item>Second Floor</item>
+    </string-array>
+    <string-array name="FacilitiesItems">
+        <item>Fully Equipped</item>
+        <item>Partially Equipped</item>
+        <item>Not Equipped</item>
+    </string-array>
+    <string-array name="FacilitiesItemsEdit">
+        <item>Fully Equipped</item>
+        <item>Partially Equipped</item>
+        <item>Not Equipped</item>
+    </string-array>
+    <string-array name="problemItems">
+        <item>Facilities</item>
+        <item>Air Conditioning</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="GroundCorridorItems">
+        <item>1077 - 1079</item>
+        <item>1084 - 1086</item>
+        <item>1091 - 1093</item>
+    </string-array>
+    <string-array name="FirstCorridorItems">
+        <item>2077 - 2079</item>
+        <item>2084 - 2086</item>
+        <item>2091 - 2093</item>
+    </string-array>
+    <string-array name="SecondCorridorItems">
+        <item>3077 - 3079</item>
+        <item>3084 - 3086</item>
+        <item>3091 - 3093</item>
+    </string-array>
+    <string-array name="G_seventhItems">
+        <item>1077</item>
+        <item>1078</item>
+        <item>1079</item>
+    </string-array>
+    <string-array name="G_eighthItems">
+        <item>1084</item>
+        <item>1085</item>
+        <item>1086</item>
+    </string-array>
+    <string-array name="G_ninthItems">
+        <item>1091</item>
+        <item>1092</item>
+        <item>1093</item>
+    </string-array>
+    <string-array name="F_seventhItems">
+        <item>2077</item>
+        <item>2078</item>
+        <item>2079</item>
+    </string-array>
+    <string-array name="F_eighthItems">
+        <item>2084</item>
+        <item>2085</item>
+        <item>2086</item>
+    </string-array>
+    <string-array name="F_ninthItems">
+        <item>2091</item>
+        <item>2092</item>
+        <item>2093</item>
+    </string-array>
+    <string-array name="S_seventhItems">
+        <item>3077</item>
+        <item>3078</item>
+        <item>3079</item>
+    </string-array>
+    <string-array name="S_eighthItems">
+        <item>3084</item>
+        <item>3085</item>
+        <item>3086</item>
+    </string-array>
+    <string-array name="S_ninthItems">
+        <item>3091</item>
+        <item>3092</item>
+        <item>3093</item>
+    </string-array>
+
+    <string-array name="all_rooms">
+        <item> </item>
+        <item>1077</item>
+        <item>1078</item>
+        <item>1079</item>
+        <item>1084</item>
+        <item>1085</item>
+        <item>1086</item>
+        <item>1091</item>
+        <item>1092</item>
+        <item>1093</item>
+        <item>2077</item>
+        <item>2078</item>
+        <item>2079</item>
+        <item>2084</item>
+        <item>2085</item>
+        <item>2086</item>
+        <item>2091</item>
+        <item>2092</item>
+        <item>2093</item>
+        <item>3077</item>
+        <item>3078</item>
+        <item>3079</item>
+        <item>3084</item>
+        <item>3085</item>
+        <item>3086</item>
+        <item>3091</item>
+        <item>3092</item>
+        <item>3093</item>
+    </string-array>
+
+    <string-array name="announcementsItems">
+        <item>Changing Rooms</item>
+        <item>Events</item>
+        <item>Lectures</item>
+        <item>other</item>
+    </string-array>
+</resources>
